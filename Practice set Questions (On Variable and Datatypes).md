@@ -1,4 +1,4 @@
-//............PRATICE SET QUESTION NO.1...........//
+//............PRACTICE SET QUESTION NO.1...........//
 //Create a variable of type string and try to add a number to it?
 //Solutins-
 let a = "45";
